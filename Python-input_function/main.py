@@ -6,4 +6,9 @@ print("My age is", b)
 
 x = input("enter 1st number: ")
 y = input("enter 2nd number: ")
+
 print(int(x) + int(y))
+print(int(x) * int(y))
+print(int(x) / int(y))
+print(int(x) % int(y))
+print(int(x) //int(y))
